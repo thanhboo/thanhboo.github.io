@@ -45,12 +45,12 @@
   }
   
   .fixed {
-    height: 100vh;
+    height: 100lvh;
     overflow-y: hidden;
   }
 
 
   #modalBtn {
     height: 50px;
-    width: 100px;
+    width: 250px;
   }
