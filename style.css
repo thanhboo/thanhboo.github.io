@@ -1,5 +1,8 @@
 .content {
     margin: 20px;
+    font-size: 20px;
+    margin:auto;
+    max-width: 400px;
   }
   
   .modal {
@@ -36,4 +39,18 @@
     text-decoration: none;
     cursor: pointer;
   }
+
+  p {
+    margin-top: 150px;
+  }
   
+  .fixed {
+    height: 100vh;
+    overflow-y: hidden;
+  }
+
+
+  #modalBtn {
+    height: 50px;
+    width: 100px;
+  }
