@@ -5,7 +5,7 @@ document.getElementById("modalBtn").addEventListener("click", function () {
   scrollDistance = window.scrollY;
   console.log(scrollDistance * -1);
   document.body.style.top = `${scrollDistance * -1}px`;
-  document.body.style.right = `0`;
+//   document.body.style.right = `0`;
 //   document.body.style.bottom = `0`;
 //   document.body.style.left = `0`;
   document.body.classList.add("modal-open");

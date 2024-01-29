@@ -46,7 +46,7 @@
   
   .modal-open {
     position: fixed;
-    inset: 0 0 0 0;
+    /* inset: 0 0 0 0; */
     height: 100lvh;
     overflow-y: hidden;
   }
