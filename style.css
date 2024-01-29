@@ -44,7 +44,9 @@
     margin-top: 150px;
   }
   
-  .fixed {
+  .modal-open {
+    position: fixed;
+    inset: 0 0 0 0;
     height: 100lvh;
     overflow-y: hidden;
   }
